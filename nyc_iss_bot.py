@@ -21,7 +21,8 @@ text = "Look to the skies! The ISS is over New York City!"
     #center_lat = 40.78145
 #latitude: 1 deg = 110.574km
 #longitude: 1 deg = 111.320*cos(latitude)km
-#radius of visibility = 2316.4km 
+#radius of visibility = 2316.4km
+#random
 
 while True:
     url = 'http://api.open-notify.org/iss-now.json'
